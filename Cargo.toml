@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "mmo",
+    "serialization",
+    "net",
+    "world",
+    "objects",
+]
