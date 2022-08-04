@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 tonic = "0.8.0" # rpc
+mio = "0.8" # a low-level I/O library
