@@ -15,4 +15,5 @@ members = [
     "amber_audio",
     "amber_config",
     "amber_npc",
+    "amber_bench",
 ]
