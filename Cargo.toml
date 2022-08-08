@@ -2,12 +2,13 @@
 
 members = [
     "amber",
-    "serialization",
-    "net",
-    "world",
-    "objects",
+    "amber_serialization",
+    "amber_net",
+    "amber_world",
+    "amber_object",
     "amber_chat",
     "amber_mail",
     "amber_logging",
     "amber_cache",
+    "amber_res",
 ]
