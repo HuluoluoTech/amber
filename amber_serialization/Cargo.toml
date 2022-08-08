@@ -1,6 +1,7 @@
 [package]
-name = "amber"
+name = "amber_serialization"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+flatbuffers = "2.1.2"

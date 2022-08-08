@@ -1,5 +1,5 @@
 [package]
-name = "net"
+name = "amber_net"
 version = "0.1.0"
 edition = "2021"
 

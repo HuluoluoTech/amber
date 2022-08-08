@@ -1,7 +1,6 @@
 [package]
-name = "serialization"
+name = "amber_world"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-flatbuffers = "2.1.2"
