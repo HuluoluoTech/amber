@@ -13,4 +13,5 @@ members = [
     "amber_res",
     "amber_patch",
     "amber_audio",
+    "amber_config",
 ]
