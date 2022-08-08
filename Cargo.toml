@@ -11,4 +11,5 @@ members = [
     "amber_logging",
     "amber_cache",
     "amber_res",
+    "amber_patch",
 ]
