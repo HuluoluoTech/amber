@@ -6,4 +6,8 @@ members = [
     "net",
     "world",
     "objects",
+    "amber_chat",
+    "amber_mail",
+    "amber_logging",
+    "amber_cache",
 ]
