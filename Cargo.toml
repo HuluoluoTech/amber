@@ -17,4 +17,5 @@ members = [
     "amber_npc",
     "amber_bench",
     "amber_db",
+    "amber_utils/prometheus",
 ]
