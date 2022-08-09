@@ -18,4 +18,5 @@ members = [
     "amber_bench",
     "amber_db",
     "amber_utils/prometheus",
+    "amber_utils/wasm_builder",
 ]
