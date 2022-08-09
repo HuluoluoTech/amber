@@ -2,7 +2,7 @@
 
 members = [
     "amber",
-    "amber_serialization",
+    "amber_serialize",
     "amber_net",
     "amber_world",
     "amber_object",
@@ -16,4 +16,5 @@ members = [
     "amber_config",
     "amber_npc",
     "amber_bench",
+    "amber_db",
 ]

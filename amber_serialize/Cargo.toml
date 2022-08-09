@@ -1,5 +1,5 @@
 [package]
-name = "amber_serialization"
+name = "amber_serialize"
 version = "0.1.0"
 edition = "2021"
 
